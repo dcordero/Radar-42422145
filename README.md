@@ -33,9 +33,9 @@ Same behaviour as seen when transport bar is shown (playbackControlsIncludeTrans
 The player seeks backward around 5 seconds for no reason.
 
 # Version/Build:
-Xcode Version 10.0 beta 4 (10L213o)
-tvOS 12.0 (16J5322d)
-AppleTv 4th Generation
+* Xcode Version 10.0 beta 4 (10L213o)
+* tvOS 12.0 (16J5322d)
+* AppleTv 4th Generation
 
 # Configuration:
 
