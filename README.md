@@ -36,9 +36,3 @@ The player seeks backward around 5 seconds for no reason.
 * Xcode Version 10.0 beta 4 (10L213o)
 * tvOS 12.0 (16J5322d)
 * AppleTv 4th Generation
-
-# Configuration:
-
-Live stream used for testing
-https://demo-hls5-live.zahs.tv/sd/master.m3u8?timeshift=3600
-
